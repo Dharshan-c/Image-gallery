@@ -1,0 +1,23 @@
+* {
+    background-color: bisque;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.container{
+    display: flex;
+    gap: 20px;
+
+}
+
+.Photos,.Photos2,.Photos3,.Photos4{
+    width: 20%;
+    padding-right: 50px;
+    padding-left: 20px;
+    
+   
+}
+
+.Photos img,.Photos2 img,.Photos3 img,.Photos4 img{
+    width: 100%;
+    padding-bottom: 80px;
+}
